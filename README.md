@@ -12,6 +12,7 @@ Adjust hexbin view:
 ![Hexbin adjust](https://i.ibb.co/bJT2QXj/Screen-Shot-2020-10-22-at-10-26-58-PM.png)
 ## Tech Stack
 - React
+- Node.js
 - Ant Design UI library
 - d3 shotchart (npm)
 - NBA (npm)
